@@ -26,11 +26,11 @@
 
 ###  Repositories
 <a href="https://github.com/chamikagangul">
-<p align="center">
+<p align="center" float="left">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamikagangul&repo=Data-Structures-and-Algorithms)](https://github.com/chamikagangul/Data-Structures-and-Algorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamikagangul&repo=Data-Structures-and-Algorithms&theme=radical)](https://github.com/chamikagangul/Data-Structures-and-Algorithms)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamikagangul&repo=code_compression)](https://github.com/chamikagangul/code_compression)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamikagangul&repo=code_compression&theme=radical)](https://github.com/chamikagangul/code_compression)
 
 </a>
 </p>
