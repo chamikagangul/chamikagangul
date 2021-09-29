@@ -1,5 +1,4 @@
-# Chamika Gangul
-
+<img src="./resourses/banner.png" style="border-radius: 3%;"/>
 <h2>Hey there! I'm Chamika</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
