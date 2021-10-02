@@ -68,3 +68,12 @@
 </p>
 
 
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/chamika-gangul-0b040117b/"><img src="https://img.shields.io/badge/-Chamika%20Gangul-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:pchamikagangul@gmail.com"><img src="https://img.shields.io/badge/-pchamikagangul@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://facebook.com/chamika.gangul.7"><img src="https://img.shields.io/badge/-@chamikagangul-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+
+</p>
